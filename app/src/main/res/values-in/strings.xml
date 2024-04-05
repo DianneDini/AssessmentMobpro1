@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Health Wave</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="bmr_screen">Kalkulator Kebutuhan Kalori</string>
+    <string name="bmr_intro">BMR (bassal metabolic rate) adalah kebutuhan kalori minimal yang dipakai organ-organ tubuh untuk melakukan tugas dasarnya. Ini meliputi pernapasan, sirkulasi, dan produksi sel. Prosesnya dikenal sebagai metabolisme.</string>
+    <string name="usia">Usia</string>
+    <string name="lakilaki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="tinggi_badan">Tinggi Badan</string>
+    <string name="berat_badan">Berat Badan</string>
+    <string name="level_aktivitas_fisik">Level Aktivitas Fisik</string>
+    <string name="tidak_pernah">Tidak Pernah/Sangat Jarang Berolahraga</string>
+    <string name="jarang_berolahraga">Jarang Berolahraga (1-3 Hari dalam Seminggu)</string>
+    <string name="cukup_sering">Cukup Sering Berolahraga (3-5 Hari dalam Seminggu)</string>
+    <string name="sering_berolahraga">Sering Berolahraga (6-7 Hari dalam Seminggu)</string>
+    <string name="sangat_sering">Sangat sering berolahraga atau melakukan pekerjaan fisik setiap hari</string>
+    <string name="hitung">Hitung!</string>
+    <string name="kembali">Kembali</string>
+    <string name="nutrisi">Tentang Kalori</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="salah_input">Tidak boleh kosong!</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">"Usia: %1$s \nJenis kelamin: %2$s \nTinggi badan: %3$s \nBerat badan: %4$s \nBMR: %5$s \n"</string>
+    <string name="teks1">"Kalori merupakan nilai yang menunjukkan jumlah energi yang diperoleh dari makanan dan minuman. Memenuhi kebutuhan kalori setiap harinya sangat penting dilakukan agar bisa melakukan berbagai aktivitas, selain tentunya agar fungsi dan proses di dalam tubuh berjalan dengan baik. "</string>
+    <string name="teks2">Sumber kalori didapatkan melalui makanan dan minuman yang dikonsumsi. Hampir semua jenis makanan dan minuman yang dikonsumsi mengandung kalori. Kalori yang diperoleh dari makanan dan minuman akan diubah menjadi energi melalui proses metabolisme. Energi tersebut akan digunakan untuk mendukung kinerja dan fungsi berbagai organ tubuh. Sisa kalori yang tidak diubah menjadi energi akan disimpan dalam tubuh sebagai lemak.</string>
+    <string name="teks3">Asupan kalori sehari-hari penting dipenuhi dalam jumlah yang cukup, tidak lebih dan tidak kurang. Pasalnya, kelebihan atau kekurangan kalori sama-sama bisa menimbulkan masalah pada kesehatan tubuh.</string>
+    <string name="teks4">"Beberapa masalah kesehatan yang muncul akibat kelebihan kalori, seperti obesitas, tekanan darah tinggi, penyakit jantung, dan stroke. Sebaliknya, beberapa masalah yang muncul akibat kekurangan kalori, seperti tubuh mudah lelah, berat badan kurang atau kurang gizi, kekebalan tubuh menurun, kesuburan terganggu, kepadatan tulang berkurang. "</string>
+    <string name="teks5">"Kebutuhan kalori harian setiap orang pasti berbeda-beda tergantung beberapa faktor. Oleh karena itu, harus mengetahui kebutuhan kalori per hari untuk bisa mengatur asupan yang dikonsumsi. Dengan demikian, bisa menjaga kesehatan hingga mendapatkan berat badan ideal. "</string>
+    <string name="teks6">"Salah satu cara mengontrol kalori yang masuk ke dalam tubuh adalah dengan mengetahui terlebih dahulu jumlah kebutuhan kalori harian menggunakan kalkulator kalori. "</string>
+    <string name="total_bmr_hasil">Anda Membutuhkan %.2f kkal/Hari</string>
+</resources>

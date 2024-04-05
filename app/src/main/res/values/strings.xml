@@ -1,3 +1,31 @@
 <resources>
-    <string name="app_name">healthwave</string>
+    <string name="app_name">Health Wave</string>
+    <string name="gambar">Image %1$s</string>
+    <string name="bmr_screen">Bassal Metabolic Rate</string>
+    <string name="bmr_intro">BMR (basal metabolic rate) is the minimum calorie requirement used by the body\'s organs to carry out their basic tasks. These include breathing, circulation, and cell production. The process is known as metabolism.</string>
+    <string name="usia">Age</string>
+    <string name="lakilaki">Man</string>
+    <string name="perempuan">Women</string>
+    <string name="tinggi_badan">Height</string>
+    <string name="berat_badan">Weight</string>
+    <string name="level_aktivitas_fisik">Physical Activity Level</string>
+    <string name="tidak_pernah">Never/Very Rarely Exercising</string>
+    <string name="jarang_berolahraga">Rarely Exercising (1-3 Days a Week)</string>
+    <string name="cukup_sering">Exercise Frequently (3-5 Days a Week)</string>
+    <string name="sering_berolahraga">Exercise Frequently (6-7 Days a Week)</string>
+    <string name="sangat_sering">Exercising very often or doing physical work every day</string>
+    <string name="hitung">Count!</string>
+    <string name="total_bmr_hasil">You Need %.2f kcal/Day</string>
+    <string name="kembali">Back</string>
+    <string name="nutrisi">About Calori</string>
+    <string name="x_diklik">%1$s clicked!</string>
+    <string name="salah_input">Can\'t be empty!</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">Age: %1$s \nGender: %2$s \nHeight: %3$s \nWeight: %4$s \nBMR: %5$s \n</string>
+    <string name="teks1">Calories are a value that shows the amount of energy obtained from food and drink. Meeting your daily calorie needs is very important so that you can carry out various activities, apart from of course so that the functions and processes in the body run well.</string>
+    <string name="teks2">The source of calories is obtained through the food and drinks consumed. Almost all types of food and drinks consumed contain calories. Calories obtained from food and drinks will be converted into energy through metabolic processes. This energy will be used to support the performance and function of various body organs. The remaining calories that are not converted into energy will be stored in the body as fat.</string>
+    <string name="teks3">It is important that daily calorie intake is met in sufficient quantities, no more and no less. The reason is, excess or lack of calories can both cause problems with body health.</string>
+    <string name="teks4">Several health problems arise due to excess calories, such as obesity, high blood pressure, heart disease and stroke. On the other hand, several problems arise due to a lack of calories, such as the body getting tired easily, being underweight or malnourished, decreased immunity, impaired fertility, reduced bone density.</string>
+    <string name="teks5">Each person\'s daily calorie needs will vary depending on several factors. Therefore, you must know your daily calorie needs to be able to regulate your intake. In this way, you can maintain your health and achieve your ideal body weight.</string>
+    <string name="teks6">One way to control the calories that enter the body is to first find out the number of daily calorie needs using a calorie calculator.</string>
 </resources>
